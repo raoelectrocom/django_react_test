@@ -12,6 +12,6 @@ For setup
 Feautures
 
 1. Normal user creation and login
-2. create, list, detail and edit the blog
+2. create, list, detail and edit the blog with cms package(ck editor) integration
 3. admin can edit all blog posts where as normal user can edit blog post which was created by him
 4. Blog post Comments schema is completed in backend
